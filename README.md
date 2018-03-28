@@ -10,7 +10,8 @@
 La siguiente aplicación tiene como fin presentar una serie de pruebas dentro de el lenguaje de programación JAVA.
 
 El ambiente utilizado es:
- | Aplication| Version|
+
+| Aplication| Version|
 | ------ | ------ |
 | JDK| `JDK 1.8` |
 | IDE| `NetBeans 8.2 v 5.7.19` |
